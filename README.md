@@ -2,7 +2,9 @@
 
 ## To-Do
 
-* Black auto-formatter
-* Type hints
-* Dockstring formats
-* pyenv, pyenv-virtualenv
+- [ ] Python basics
+- [ ] Data types in Python 
+- [ ] Docker 
+- [ ] All about DB
+- [ ] PostgreSQL
+- [ ] More about fastapi  
