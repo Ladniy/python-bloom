@@ -6,4 +6,5 @@
 - [ ] Data types in Python 
 - [ ] Docker 
 - [ ] All about DB
-- [ ] PostgreSQL 
+- [ ] PostgreSQL
+- [ ] More about fastapi  
